@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5697989315:AAFGjVTwlQozFgx4-rCSpOrN2yLAIHU_7fI"
+    APP_ID = "14079819"
+    API_HASH = "33aaec33dd7d2e26a50e548a1421dbd1"
+    DATABASE_URL = "postgres://kugmqthmqlkbko:37fc649e643458264873c082321b978868f96348f954b9887a9d8d59c81c79bf@ec2-52-70-45-163.compute-1.amazonaws.com:5432/d2sa8j59ackrit"
+    SUDO_USERS = "1677262717 1692041857" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/taktgp"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "342125905233-62iuko52sehmjl8juucp8mv92fj73pi5.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
